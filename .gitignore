@@ -5,13 +5,10 @@
 [Bb]uilds/
 Logs/
 UserSettings/
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-echo .plastic/ >> .gitignore
-echo .vs/ >> .gitignore
-echo .vsconfig >> .gitignore
-echo *.csproj >> .gitignore
-echo *.sln >> .gitignore
-echo UpgradeLog.htm >> .gitignore
-echo ignore.conf >> .gitignore
+.plastic/
+.vs/
+.vsconfig
+*.csproj
+*.sln
+UpgradeLog.htm
+ignore.conf
