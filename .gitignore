@@ -8,3 +8,10 @@ UserSettings/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+echo .plastic/ >> .gitignore
+echo .vs/ >> .gitignore
+echo .vsconfig >> .gitignore
+echo *.csproj >> .gitignore
+echo *.sln >> .gitignore
+echo UpgradeLog.htm >> .gitignore
+echo ignore.conf >> .gitignore
